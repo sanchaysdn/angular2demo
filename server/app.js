@@ -3,7 +3,7 @@ var app = express();
 var bodyParser = require("body-parser");
 var mongoose = require("mongoose");
 
-mongoose.connect("mongodb://riskpal.co.uk/demo-app");
+mongoose.connect("mongodb://[youserverOrLocalhost]:27017/demo-app");
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
