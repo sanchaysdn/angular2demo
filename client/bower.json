@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "description": "",
+  "main": "",
+  "authors": ["Sanchay Shukla [sanchay.shukla@smartdatainc.net]"],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
