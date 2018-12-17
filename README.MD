@@ -1,5 +1,5 @@
 To run the project follow the steps
-1) git clone https://github.com/sanchaysdn/angular4demo.git
+1) git clone https://github.com/sanchaysdn/angular2demo.git
 2) cd server && npm install
 3) cd ../client && npm install
 4) when you are inside client folder run "ng serve"
